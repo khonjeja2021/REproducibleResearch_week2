@@ -1,2 +1,2 @@
-# REproducibleResearch_week2
+# ReproducibleResearch_week2
 Coursera Course
